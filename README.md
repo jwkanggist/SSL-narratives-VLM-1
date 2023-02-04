@@ -1,12 +1,12 @@
 # [스터디 모집중] 거꾸로 읽는 self-supervised-learning 시즌3: Visual Language Models
 
-- [신청 Google form (2/18까지)](https://forms.gle/f7ZmUkfxNxBT1VUD8)
+- [신청 Google form (2/18 모집마감)](https://forms.gle/f7ZmUkfxNxBT1VUD8)
 - 거꾸로 읽는 SSL 이번에는 VLM 분야로 넘어 왔습니다! :)
 - 2021년도 이후로 가파르게 발전하고 있는 Visual Language Models 논문에 집중하여 의미가 있었던 논문을 살펴봅니다. 
 - 해당 논문에서 제시하는 메소드의 특징 그리고 역사적으로 평가되는 이유에 대해서 즐겁게 토론하는 시간을 가집니다. 
 
 ## 기간 (예정)
-- 2023 3/4 ~ 5/27 (13주간)
+- 2023 3/4 ~ 6/3 (14주간)
 
 ## 발표 논문 및 순서
   | Type | Paper title | Affiliation | Date to be published at ArXiv | Speaker
@@ -17,8 +17,8 @@
 4 주차 | image-text matching | Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers | MS | 2020 Apr |  
 5 주차 | image-text contrastive learning | ALBEF: Align before Fuse: Vision and LanguageRepresentation Learning with Momentum Distillation | Salesforce | 2021 Jul |  
 6 주차 | MoE for VLM | VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts | MS | 2021 Nov |  
-7 주차 - 1 | Masked VLM 1 | VL-BEIT: Generative Vision-Language Pretraining | MS | 2022 Jun |  
-7 주차 - 2 | Masked VLM 2 | Masked Vision and Language Modeling for Multi-modal Representation Learning | Amazon | 2022 Aug |  
+7 주차 | Masked VLM 1 | VL-BEIT: Generative Vision-Language Pretraining | MS | 2022 Jun |  
+8 주차 | Masked VLM 2 | Masked Vision and Language Modeling for Multi-modal Representation Learning | Amazon | 2022 Aug |  
 9 주차 | multimodal funsion by merged attention | SimVLM: Simple Visual Language Model Pretraining with Weak Supervision | Google | 2021 Aug |  
 10 주차 | multimodal funsion by  co-attention | CoCa: Contrastive Captioners are Image-Text Foundation Models | Google | 2022 May |  
 11 주차 | few-shot learning in VLM | Flamingo: a visual language model for few-shot learning | DeepMind | 2022 Apr |  
