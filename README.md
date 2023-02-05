@@ -23,8 +23,8 @@
 9 주차 | multimodal funsion by merged attention | SimVLM: Simple Visual Language Model Pretraining with Weak Supervision | Google | 2021 Aug |  
 10 주차 | multimodal funsion by  co-attention | CoCa: Contrastive Captioners are Image-Text Foundation Models | Google | 2022 May |  
 11 주차 | few-shot learning in VLM | Flamingo: a visual language model for few-shot learning | DeepMind | 2022 Apr |  
-12 주차 | SOTA 1 | GIT: A Generative Image-to-text Transformer for Vision and Language | MS | 2022 May |  
-13 주차 | SOTA2 | PaLI: A Jointly-Scaled Multilingual Language-Image Model | Google | 2022 Sep |  
+12 주차 | Model scaling for VLM 1 | GIT: A Generative Image-to-text Transformer for Vision and Language | MS | 2022 May |  
+13 주차 | Model scaling for VLM 2 | PaLI: A Jointly-Scaled Multilingual Language-Image Model | Google | 2022 Sep |  
 14 주차 | wrap-up | 전체 흐름 재정리 |   |   | 강재욱
 
 
