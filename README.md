@@ -17,7 +17,7 @@
 3 주차 | dual encoder | CLIP: Learning Transferable Visual Models From Natural Language Supervision | OpenAI | 2021 Feb |  
 4 주차 | image-text matching | Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers | MS | 2020 Apr |  
 5 주차 | image-text contrastive learning | ALBEF: Align before Fuse: Vision and LanguageRepresentation Learning with Momentum Distillation | Salesforce | 2021 Jul |  
-6 주차 | Masked Image Modeling | Masked Autoencoders Are Scalable Vision Learners | Meta | 2021 Jun |  
+6 주차 | Masked Image Modeling | BEiT: BERT Pre-Training of Image Transformers | MS | 2021 Jun | 
 7 주차 | Masked VLM | Masked Vision and Language Modeling for Multi-modal Representation Learning | Amazon | 2022 Aug |  
 8 주차 | MoE for VLM | VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts | MS | 2021 Nov |  
 9 주차 | multimodal funsion by merged attention | SimVLM: Simple Visual Language Model Pretraining with Weak Supervision | Google | 2021 Aug |  
