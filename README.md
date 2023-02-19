@@ -1,4 +1,4 @@
-# [스터디 모집중] 거꾸로 읽는 self-supervised-learning 시즌3: Visual Language Models
+# [스터디 모집 완료] 거꾸로 읽는 self-supervised-learning 시즌3: Visual Language Models
 
 - [신청 Google form (2/18 모집마감)](https://forms.gle/f7ZmUkfxNxBT1VUD8)
 - 거꾸로 읽는 SSL 이번에는 VLM 분야로 넘어 왔습니다! :)
