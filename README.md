@@ -15,7 +15,7 @@
 1 주차 | VLM bechmark and metric | VLM 관련 벤치마크와 메트릭 소개 |   |   | 강재욱
 2 주차 | Vision transformer | ViT:An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | Google | 2020 Oct | 이인규
 3 주차 | Dual encoder | CLIP: Learning Transferable Visual Models From Natural Language Supervision | OpenAI | 2021 Feb |  김희은
-4 주차 | Image-text matching | Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers | MS | 2020 Apr |  
+4 주차 | Image-text matching | Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers | MS | 2020 Apr |  신성호
 5 주차 | Image-text contrastive learning | ALBEF: Align before Fuse: Vision and LanguageRepresentation Learning with Momentum Distillation | Salesforce |  2021 Jul |  이유경
 6 주차 | Masked Image Modeling | BEiT: BERT Pre-Training of Image Transformers | MS | 2021 Jun | 박민지
 7 주차 | Masked VLM | Masked Vision and Language Modeling for Multi-modal Representation Learning | Amazon | 2022 Aug |  김강민
